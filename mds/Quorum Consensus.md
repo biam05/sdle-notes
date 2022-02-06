@@ -1,4 +1,4 @@
-# Replication for Fault Tolerance
+# Replication for Fault Tolerance - Quorum Consensus
 ## Quorum Consensus Protocols
 - Clients communicate directly to the servers/replicas
 - Each (replicated) operation (e.g. read/write) requires a **quorum** (set of replicas)
